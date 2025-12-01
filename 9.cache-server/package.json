@@ -1,0 +1,13 @@
+{
+    "name": "cache-server",
+    "version": "1.0.0",
+    "description": "Redis-like cache server with TCP",
+    "type": "module",
+    "keywords": [
+        "cache",
+        "tcp",
+        "redis"
+    ],
+    "author": "",
+    "license": "MIT"
+}

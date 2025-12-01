@@ -1,0 +1,12 @@
+{
+    "name": "stream-processor",
+    "version": "1.0.0",
+    "description": "Process large files with streams",
+    "type": "module",
+    "keywords": [
+        "streams",
+        "transform"
+    ],
+    "author": "",
+    "license": "MIT"
+}

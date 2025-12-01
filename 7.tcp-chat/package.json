@@ -1,0 +1,13 @@
+{
+    "name": "tcp-chat",
+    "version": "1.0.0",
+    "description": "TCP chat server and client",
+    "type": "module",
+    "keywords": [
+        "tcp",
+        "chat",
+        "net"
+    ],
+    "author": "",
+    "license": "MIT"
+}

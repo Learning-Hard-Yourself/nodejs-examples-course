@@ -1,0 +1,12 @@
+{
+    "name": "child-processes",
+    "version": "1.0.0",
+    "description": "Task runner with child processes",
+    "type": "module",
+    "keywords": [
+        "child-process",
+        "spawn"
+    ],
+    "author": "",
+    "license": "MIT"
+}
