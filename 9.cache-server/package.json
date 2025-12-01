@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Redis-like cache server with TCP",
     "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
     "keywords": [
         "cache",
         "tcp",

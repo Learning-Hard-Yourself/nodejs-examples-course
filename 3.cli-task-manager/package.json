@@ -4,6 +4,7 @@
     "description": "Terminal-based task manager",
     "type": "module",
     "scripts": {
+        "start": "node tasks.js help",
         "test": "node --test"
     },
     "keywords": [

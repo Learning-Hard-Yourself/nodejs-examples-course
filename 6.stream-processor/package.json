@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Process large files with streams",
     "type": "module",
+    "scripts": {
+        "start": "echo 'Usage: node processor.js <input-file> <output-file>'"
+    },
     "keywords": [
         "streams",
         "transform"

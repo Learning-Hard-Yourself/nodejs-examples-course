@@ -4,6 +4,7 @@
     "description": "File system watcher with log analysis",
     "type": "module",
     "scripts": {
+        "start": "node watcher.js ./logs",
         "test": "node --test"
     },
     "keywords": [

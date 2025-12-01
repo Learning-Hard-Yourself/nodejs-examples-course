@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Task runner with child processes",
     "type": "module",
+    "scripts": {
+        "start": "node runner.js"
+    },
     "keywords": [
         "child-process",
         "spawn"

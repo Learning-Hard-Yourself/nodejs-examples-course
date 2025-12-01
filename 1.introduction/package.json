@@ -4,6 +4,7 @@
     "description": "Node.js fundamentals and event loop demonstrations",
     "type": "module",
     "scripts": {
+        "start": "node examples/01-simple-timeout.js",
         "test": "node --test"
     },
     "keywords": [

@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "description": "TCP chat server and client",
     "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "client": "node client.js"
+    },
     "keywords": [
         "tcp",
         "chat",
