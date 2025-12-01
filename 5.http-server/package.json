@@ -1,0 +1,15 @@
+{
+    "name": "http-server",
+    "version": "1.0.0",
+    "description": "HTTP server from scratch",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "http",
+        "server"
+    ],
+    "author": "",
+    "license": "MIT"
+}
