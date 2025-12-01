@@ -1,0 +1,16 @@
+{
+    "name": "nodejs-introduction",
+    "version": "1.0.0",
+    "description": "Node.js fundamentals and event loop demonstrations",
+    "type": "module",
+    "scripts": {
+        "test": "node --test"
+    },
+    "keywords": [
+        "nodejs",
+        "event-loop",
+        "fundamentals"
+    ],
+    "author": "",
+    "license": "MIT"
+}
