@@ -5,9 +5,9 @@
     "type": "module",
     "scripts": {
         "start": "npm test",
-        "test": "node --test",
-        "test:watch": "node --test --watch",
-        "test:coverage": "node --test --experimental-test-coverage"
+        "test": "node --test --experimental-test-module-mocks",
+        "test:watch": "node --test --watch --experimental-test-module-mocks",
+        "test:coverage": "node --test --experimental-test-coverage --experimental-test-module-mocks"
     },
     "keywords": [
         "testing",
